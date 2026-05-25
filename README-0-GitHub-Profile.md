@@ -10,11 +10,11 @@ I'm building hands-on cybersecurity expertise through practical lab projects cov
 
 | Project | Focus Area | Tools |
 |---------|-----------|-------|
-| [IR-Playbook-Lab](https://github.com/Caleb Rorich/IR-Playbook-Lab) | Incident Response & NIST 800-61 | Wazuh, Metasploit, VirtualBox |
-| [Vuln-Scan-Lab](https://github.com/Caleb Rorich/Vuln-Scan-Lab) | Vulnerability Management | Nessus, Nmap, Python |
-| [Compliance-Control-Matrix](https://github.com/Caleb Rorich/Compliance-Control-Matrix) | PCI DSS, ISO 27001, SOX, NIST | Python, Excel |
-| [SIEM-Detection-Lab](https://github.com/Caleb Rorich/SIEM-Detection-Lab) | Detection Engineering & Threat Hunting | ELK Stack, Sigma, MITRE ATT&CK |
-| [Security-Policy-Library](https://github.com/Caleb Rorich/Security-Policy-Library) | Policy, GRC & Network Documentation | Markdown, draw.io |
+| [IR-Playbook-Lab](https://github.com/Caleb-Rorich/IR-Playbook-Lab) | Incident Response & NIST 800-61 | Wazuh, Metasploit, VirtualBox |
+| [Vuln-Scan-Lab](https://github.com/Caleb-Rorich/Vuln-Scan-Lab) | Vulnerability Management | Nessus, Nmap, Python |
+| [Compliance-Control-Matrix](https://github.com/Caleb-Rorich/Compliance-Control-Matrix) | PCI DSS, ISO 27001, SOX, NIST | Python, Excel |
+| [SIEM-Detection-Lab](https://github.com/Caleb-Rorich/SIEM-Detection-Lab) | Detection Engineering & Threat Hunting | ELK Stack, Sigma, MITRE ATT&CK |
+| [Security-Policy-Library](https://github.com/Caleb-Rorich/Security-Policy-Library) | Policy, GRC & Network Documentation | Markdown, draw.io |
 
 ---
 
